@@ -15,6 +15,8 @@ for i in range(0, len(arr)):
             del arr[i-1]
             arr.insert(i+1, val)
 
+#incomplete, check ipynb
+
 
 #====================================================
 
