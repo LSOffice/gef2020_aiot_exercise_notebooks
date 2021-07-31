@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 
 # rectangle class
 class rectangle:
-    def __init__(self, width, height):
+    def __init__(self, height, width):
         self.width = width
         self.height = height
 
